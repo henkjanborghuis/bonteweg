@@ -21,8 +21,8 @@
 title: Bonteweg
 email: info@henkjanborghuis.nl
 description: Bonteweg
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://henkjanborghuis.github.io/bonteweg/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/bonteweg" # the subpath of your site, e.g. /blog
+url: "https://henkjanborghuis.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: henkjanborghuis
 github_username:  henkjanborghuis
 
