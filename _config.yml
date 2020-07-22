@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Bonteweg
-email: info@henkjanborghuis.nl
-description: Bonteweg
+# email: info@henkjanborghuis.nl
+description: This is a placeholder for the Bonteweg.
 baseurl: "/bonteweg" # the subpath of your site, e.g. /blog
 url: "https://henkjanborghuis.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: henkjanborghuis
